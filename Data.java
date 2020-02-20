@@ -1,8 +1,8 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class FileReader
+public class Data
 {
-  public List<Integer> library = new ArrayList<>();
+  public List<Library> libraryList = new ArrayList<>();
   public List<Integer> bookValues = new ArrayList<>();
 }
