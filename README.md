@@ -2,3 +2,4 @@
 Adelina Girlea
 Teodor Popescu
 Stefan Lica
+Ana Vaduva
